@@ -1,25 +1,27 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
 h1{
-		font-size: 30px;
-		color: #7F41FF;
-	}
-	h2{
-		font-size: 15px;
-		color: hotpink;
-	}
+	font-size: 30px;
+	color: #7F41FF;
+}
+h2{
+	font-size: 15px;
+	color: hotpink;
+}
 
-	.big{
-		font-size: 60px
-	}
-	.uppercase{
-		text-transform: uppercase;
-	}
-	.big.uppercase{
-		color: navy;
-	}
-	span{
-		color: violet;
-	}
-	h1 span{
-		color: red;
-	}
+.big{
+	font-size: 60px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
+span{
+	color: violet;
+}
+h1 span{
+	color: red;
 }
